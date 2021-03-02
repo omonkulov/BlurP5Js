@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  min-width: 800;
+  max-width: 1200;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  min-width: 800;
+  max-width: 1200;
+}
